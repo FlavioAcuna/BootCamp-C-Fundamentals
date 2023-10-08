@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\bin\Debug\net7.0\fundamentals.exe
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\bin\Debug\net7.0\fundamentals.deps.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\bin\Debug\net7.0\fundamentals.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\bin\Debug\net7.0\fundamentals.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\bin\Debug\net7.0\fundamentals.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\refint\fundamentals.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\fundamentals.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\fundamentals\obj\Debug\net7.0\ref\fundamentals.dll
